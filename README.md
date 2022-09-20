@@ -50,3 +50,4 @@ truffle migrate --network matic
 - [learn web3 dapp](https://github.com/figment-networks/learn-web3-dapp)
 - [Polygon Academy](https://academy.polygon.technology/module-1-getting-started/environment-setup-and-installation)
 - [Tutorial NFT marketplace](https://github.com/Polygon-Academy/Tutorial-nft-marketplace)
+- [Nested smart contracts](https://blog.logrocket.com/nested-smart-contracts-creating-contract-within-contract/)
