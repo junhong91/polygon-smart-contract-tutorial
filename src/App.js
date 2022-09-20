@@ -20,6 +20,10 @@ function App() {
 
   function onSubmit(event) {
     event.preventDefault();
+    const contractName = nameInputRef.current.value;
+    const description = descInputRef.current.value;
+    console.log(contractName);
+    console.log(description);
     formRef.current.reset();
   }
 
